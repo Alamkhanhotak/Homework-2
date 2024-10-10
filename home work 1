@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package home.work;
+
+/**
+ *
+ * @author A.C.S
+ */
+public class HomeWork {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        System.out.println("my name is alam khan ");
+        System.out.println("last name is hotak ");
+        System.out.println("father name is sartor");
+        System.out.println("family name is too hotak");
+        System.out.println("my nationality is afghan");
+        System.out.println("my religen is islam");
+        System.out.println("i live in the country(afghanistan)provence( baghlan)(poli khumri");
+        System.out.println("i gratuated the schol piriod in the  khatamulambia high school");
+        System.out.println("today i am busy in the kabul university to learning computer scinse");}
+    
+}
